@@ -1,0 +1,5 @@
+query productRealeaseDate($slug: String) {
+  product(slug: $slug) {
+    realeaseDate
+  }
+}

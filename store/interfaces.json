@@ -1,5 +1,14 @@
 {
   "countdown": {
     "component": "Countdown"
+  },
+
+  "countdown.title": {
+    "component": "Title"
+  },
+
+  "button": {
+    "component": "Button",
+    "composition": "children"
   }
 }
